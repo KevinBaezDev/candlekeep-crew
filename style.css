@@ -15,3 +15,43 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.section-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+}
+
+.party {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dale,
+.bryce,
+.q,
+.viscera,
+.acky {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+span {
+    border-style: solid;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
